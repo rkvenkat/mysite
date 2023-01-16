@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Venkat Ravi",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nThis is a dummy blog posts\n\n\n\n\n\n\n\n123\n\n\nSecond Tag\n\n\n\n\nThis is a test post. In this post, I try out different functionalities\n\n\n\n\n\n\nJun 1, 2022\n\n\n0 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Venkat Ravi",
+    "section": "",
+    "text": "::: {.grid}\n\n\n\n\nHi, I’m Albert Rapp.\nI’m a mathematics PhD students with a passion for R, data visualization, Shiny and statistics/machine learning. On this blog, I share and teach what I learn.\nTo get started, you can check out my most popular content below. You can find me on Twitter or GitHub and YouTube. Feel free to reach out to me via mail and subscribe to my email newsletter."
+  },
+  {
+    "objectID": "posts/new_blog_post/post.html",
+    "href": "posts/new_blog_post/post.html",
+    "title": "This is a dummy blog posts",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus."
+  }
+]
