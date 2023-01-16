@@ -10,7 +10,60 @@
 <atom:link href="xyz/blog.xml" rel="self" type="application/rss+xml"/>
 <description>This is Venkat&#39;s personal Blog.</description>
 <generator>quarto-1.2.269</generator>
-<lastBuildDate>Wed, 01 Jun 2022 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Jan 2023 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Microsoft Excel Collegiate Challenge</title>
+  <dc:creator>Venkat Ravi</dc:creator>
+  <link>xyz/posts/new_blog_post/mecc.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="about" class="level2">
+<h2 class="anchored" data-anchor-id="about">About</h2>
+<p>The Microsoft Excel Collegiate Challenge (MECC) is a competition that develops and tests students’ problem-solving, critical thinking, and Excel skills. The Challenge is implemented through a partnership between the Finance Department of the Eller College of Management and the Financial Modeling World Cup (FMWC).</p>
+<p>2,072 individuals and 251 teams (up to 3 students) registered from 93 countries and 596 universities/colleges. In total, over 2,800 students registered for the Challenge</p>
+</section>
+<section id="qualifying-for-finals" class="level2">
+<h2 class="anchored" data-anchor-id="qualifying-for-finals">Qualifying for finals</h2>
+<p>I made it to the finals event held at the University of Arizona, Tucson on Decemeber 3, 2022. I was knocked out before last the 8 but I learnt a lot during my preparation for this especially using dynamic arrays in Excel.</p>
+<p><img src="xyz/posts/new_blog_post/media/mewc_ranking.jpg" title="title" class="img-fluid"></p>
+</section>
+<section id="some" class="level2">
+<h2 class="anchored" data-anchor-id="some">Some 📸</h2>
+<table class="table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th><!-- --></th>
+<th><!-- --></th>
+<th><!-- --></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="xyz/posts/new_blog_post/media/plank.jpeg" height="400"></td>
+<td><img src="xyz/posts/new_blog_post/media/U0fA.jpeg" height="400"></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><img src="xyz/posts/new_blog_post/media/me_at_UofA.jpeg" height="400"></p>
+
+
+</section>
+
+ ]]></description>
+  <category>Finance</category>
+  <category>Excel</category>
+  <guid>xyz/posts/new_blog_post/mecc.html</guid>
+  <pubDate>Sun, 01 Jan 2023 05:00:00 GMT</pubDate>
+  <media:content url="xyz/posts/new_blog_post/media/mewc_ranking.jpg " medium="image"/>
+</item>
 <item>
   <title>This is a dummy blog posts</title>
   <dc:creator>Venkat Ravi</dc:creator>
@@ -34,31 +87,6 @@
   <category>123</category>
   <category>Second Tag</category>
   <guid>xyz/posts/new_blog_post/post.html</guid>
-  <pubDate>Wed, 01 Jun 2022 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>This is a dummy blog posts</title>
-  <dc:creator>Venkat Ravi</dc:creator>
-  <link>xyz/posts/new_blog_post/post2.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="heading-1" class="level1">
-<h1>Heading 1</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.</p>
-<section id="merriweather" class="level2">
-<h2 class="anchored" data-anchor-id="merriweather">Merriweather</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. <strong>Aliquam feugiat dictum bibendum.</strong> Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. <a href="https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss">Fusce luctus</a> porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>123</category>
-  <category>Second Tag</category>
-  <guid>xyz/posts/new_blog_post/post2.html</guid>
   <pubDate>Wed, 01 Jun 2022 04:00:00 GMT</pubDate>
 </item>
 </channel>

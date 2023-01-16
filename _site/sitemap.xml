@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>xyz/blog.html</loc>
-    <lastmod>2023-01-16T17:00:34.605Z</lastmod>
+    <lastmod>2023-01-16T17:59:48.548Z</lastmod>
   </url>
   <url>
     <loc>xyz/index.html</loc>
-    <lastmod>2023-01-16T16:58:56.629Z</lastmod>
+    <lastmod>2023-01-16T17:27:52.203Z</lastmod>
   </url>
   <url>
     <loc>xyz/posts/new_blog_post/post.html</loc>
@@ -14,6 +14,10 @@
   </url>
   <url>
     <loc>xyz/posts/new_blog_post/post2.html</loc>
-    <lastmod>2023-01-16T16:49:20.234Z</lastmod>
+    <lastmod>2023-01-16T17:28:05.170Z</lastmod>
+  </url>
+  <url>
+    <loc>xyz/posts/new_blog_post/mecc.html</loc>
+    <lastmod>2023-01-16T17:59:57.506Z</lastmod>
   </url>
 </urlset>
