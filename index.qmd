@@ -1,11 +1,18 @@
----
-title: "mysite"
----
+::: {.grid}
 
-This is a Quarto website.
+::: {.g-col-4}
+![](my_pic.jpeg)
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.g-col-8}
+# Hi👋, I'm Venkat Ravi.
+I'm a Graduate Student at Duke University studying Engineering Management.
 
-```{r}
-1 + 1
-```
+You can find me on [Twitter](https://twitter.com/rappa753) or
+[GitHub](https://github.com/AlbertRapp). 
+
+Feel free to reach out to me via [mail](mailto:venkat.ravi@duke.edu).
+
+:::
+
+:::

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>xyz/blog.html</loc>
+    <lastmod>2023-01-16T17:00:34.605Z</lastmod>
+  </url>
+  <url>
+    <loc>xyz/index.html</loc>
+    <lastmod>2023-01-16T16:58:56.629Z</lastmod>
+  </url>
+  <url>
+    <loc>xyz/posts/new_blog_post/post.html</loc>
+    <lastmod>2023-01-16T16:49:11.217Z</lastmod>
+  </url>
+  <url>
+    <loc>xyz/posts/new_blog_post/post2.html</loc>
+    <lastmod>2023-01-16T16:49:20.234Z</lastmod>
+  </url>
+</urlset>

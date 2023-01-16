@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Venkat Ravi</title>
+<link>xyz/blog.html</link>
+<atom:link href="xyz/blog.xml" rel="self" type="application/rss+xml"/>
+<description>This is Venkat&#39;s personal Blog.</description>
+<generator>quarto-1.2.269</generator>
+<lastBuildDate>Wed, 01 Jun 2022 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>This is a dummy blog posts</title>
+  <dc:creator>Venkat Ravi</dc:creator>
+  <link>xyz/posts/new_blog_post/post.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="heading-1" class="level1">
+<h1>Heading 1</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.</p>
+<section id="merriweather" class="level2">
+<h2 class="anchored" data-anchor-id="merriweather">Merriweather</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. <strong>Aliquam feugiat dictum bibendum.</strong> Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. <a href="https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss">Fusce luctus</a> porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>123</category>
+  <category>Second Tag</category>
+  <guid>xyz/posts/new_blog_post/post.html</guid>
+  <pubDate>Wed, 01 Jun 2022 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>This is a dummy blog posts</title>
+  <dc:creator>Venkat Ravi</dc:creator>
+  <link>xyz/posts/new_blog_post/post2.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="heading-1" class="level1">
+<h1>Heading 1</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. Aliquam feugiat dictum bibendum. Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. Fusce luctus porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.</p>
+<section id="merriweather" class="level2">
+<h2 class="anchored" data-anchor-id="merriweather">Merriweather</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam suscipit est nec dui eleifend, at dictum elit ullamcorper. <strong>Aliquam feugiat dictum bibendum.</strong> Praesent fermentum laoreet quam, cursus volutpat odio dapibus in. <a href="https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss">Fusce luctus</a> porttitor vehicula. Donec ac tortor nisi. Donec at lectus tortor. Morbi tempor, nibh non euismod viverra, metus arcu aliquet elit, sed fringilla urna leo vel purus.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>123</category>
+  <category>Second Tag</category>
+  <guid>xyz/posts/new_blog_post/post2.html</guid>
+  <pubDate>Wed, 01 Jun 2022 04:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
